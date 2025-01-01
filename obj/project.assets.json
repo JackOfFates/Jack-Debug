@@ -90,15 +90,6 @@
             "related": ".xml"
           }
         }
-      },
-      "Micro Serialization Library/1.0.0": {
-        "type": "project",
-        "compile": {
-          "bin/placeholder/Micro Serialization Library.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Micro Serialization Library.dll": {}
-        }
       }
     }
   },
@@ -245,17 +236,12 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
-    },
-    "Micro Serialization Library/1.0.0": {
-      "type": "project",
-      "path": "../../../../Desktop/Pathogenix-micro-library-2697b2122669/Micro Serialization Library/Micro Serialization Library.vbproj",
-      "msbuildProject": "../../../../Desktop/Pathogenix-micro-library-2697b2122669/Micro Serialization Library/Micro Serialization Library.vbproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0-windows7.0": [
+      "C:\\Users\\Desktop\\Pathogenix-micro-library-2697b2122669\\Micro Serialization Library\\Micro Serialization Library.vbproj",
       "MahApps.Metro >= 2.4.10",
-      "Micro Serialization Library >= 1.0.0",
       "System.Drawing.Common >= 9.0.0"
     ]
   },
@@ -266,11 +252,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vin\\source\\repos\\wShare\\JackDebug\\JackDebug.vbproj",
+      "projectUniqueName": "C:\\Users\\Vin\\Documents\\GitHub\\Jack-Debug\\JackDebug.vbproj",
       "projectName": "JackDebug",
-      "projectPath": "C:\\Users\\Vin\\source\\repos\\wShare\\JackDebug\\JackDebug.vbproj",
+      "projectPath": "C:\\Users\\Vin\\Documents\\GitHub\\Jack-Debug\\JackDebug.vbproj",
       "packagesPath": "C:\\Users\\Vin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vin\\source\\repos\\wShare\\JackDebug\\obj\\",
+      "outputPath": "C:\\Users\\Vin\\Documents\\GitHub\\Jack-Debug\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -291,8 +277,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\Vin\\Desktop\\Pathogenix-micro-library-2697b2122669\\Micro Serialization Library\\Micro Serialization Library.vbproj": {
-              "projectPath": "C:\\Users\\Vin\\Desktop\\Pathogenix-micro-library-2697b2122669\\Micro Serialization Library\\Micro Serialization Library.vbproj"
+            "C:\\Users\\Desktop\\Pathogenix-micro-library-2697b2122669\\Micro Serialization Library\\Micro Serialization Library.vbproj": {
+              "projectPath": "C:\\Users\\Desktop\\Pathogenix-micro-library-2697b2122669\\Micro Serialization Library\\Micro Serialization Library.vbproj"
             }
           }
         }
@@ -344,5 +330,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\Desktop\\Pathogenix-micro-library-2697b2122669\\Micro Serialization Library\\Micro Serialization Library.vbproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Desktop\\Pathogenix-micro-library-2697b2122669\\Micro Serialization Library\\Micro Serialization Library.vbproj",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
 }

@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("JackDebug"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7eaf5c1ce4c0c7ce86bc5da64ea78a6e82ac89f"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("JackDebug"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("JackDebug"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
