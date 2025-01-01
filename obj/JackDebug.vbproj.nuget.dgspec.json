@@ -32,8 +32,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\Desktop\\Pathogenix-micro-library-2697b2122669\\Micro Serialization Library\\Micro Serialization Library.vbproj": {
-                "projectPath": "C:\\Users\\Desktop\\Pathogenix-micro-library-2697b2122669\\Micro Serialization Library\\Micro Serialization Library.vbproj"
+              "C:\\Users\\Desktop\\Pathogenix-micro-library-2697b2122669\\Micro Serialization Library\\Micro Serialization Library.csproj": {
+                "projectPath": "C:\\Users\\Desktop\\Pathogenix-micro-library-2697b2122669\\Micro Serialization Library\\Micro Serialization Library.csproj"
               }
             }
           }

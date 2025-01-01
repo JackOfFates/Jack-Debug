@@ -240,7 +240,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0-windows7.0": [
-      "C:\\Users\\Desktop\\Pathogenix-micro-library-2697b2122669\\Micro Serialization Library\\Micro Serialization Library.vbproj",
+      "C:\\Users\\Desktop\\Pathogenix-micro-library-2697b2122669\\Micro Serialization Library\\Micro Serialization Library.csproj",
       "MahApps.Metro >= 2.4.10",
       "System.Drawing.Common >= 9.0.0"
     ]
@@ -277,8 +277,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\Desktop\\Pathogenix-micro-library-2697b2122669\\Micro Serialization Library\\Micro Serialization Library.vbproj": {
-              "projectPath": "C:\\Users\\Desktop\\Pathogenix-micro-library-2697b2122669\\Micro Serialization Library\\Micro Serialization Library.vbproj"
+            "C:\\Users\\Desktop\\Pathogenix-micro-library-2697b2122669\\Micro Serialization Library\\Micro Serialization Library.csproj": {
+              "projectPath": "C:\\Users\\Desktop\\Pathogenix-micro-library-2697b2122669\\Micro Serialization Library\\Micro Serialization Library.csproj"
             }
           }
         }
@@ -335,8 +335,8 @@
     {
       "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\Desktop\\Pathogenix-micro-library-2697b2122669\\Micro Serialization Library\\Micro Serialization Library.vbproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\Desktop\\Pathogenix-micro-library-2697b2122669\\Micro Serialization Library\\Micro Serialization Library.vbproj",
+      "message": "Unable to find project 'C:\\Users\\Desktop\\Pathogenix-micro-library-2697b2122669\\Micro Serialization Library\\Micro Serialization Library.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Desktop\\Pathogenix-micro-library-2697b2122669\\Micro Serialization Library\\Micro Serialization Library.csproj",
       "targetGraphs": [
         "net6.0-windows7.0"
       ]

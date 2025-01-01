@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "T1s67pGotH0=",
+  "dgSpecHash": "h9hgWIWLI5Y=",
   "success": false,
   "projectFilePath": "C:\\Users\\Vin\\Documents\\GitHub\\Jack-Debug\\JackDebug.vbproj",
   "expectedPackageFiles": [
@@ -14,8 +14,8 @@
     {
       "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\Desktop\\Pathogenix-micro-library-2697b2122669\\Micro Serialization Library\\Micro Serialization Library.vbproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\Desktop\\Pathogenix-micro-library-2697b2122669\\Micro Serialization Library\\Micro Serialization Library.vbproj",
+      "message": "Unable to find project 'C:\\Users\\Desktop\\Pathogenix-micro-library-2697b2122669\\Micro Serialization Library\\Micro Serialization Library.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Desktop\\Pathogenix-micro-library-2697b2122669\\Micro Serialization Library\\Micro Serialization Library.csproj",
       "targetGraphs": [
         "net6.0-windows7.0"
       ]
