@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>JackDebug</id>
+    <version>1.0.0</version>
+    <authors>JackDebug</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="fca2da965ee2a033faf9f4062b03c01fbf727afb" />
+    <dependencies>
+      <group targetFramework="net9.0-windows7.0">
+        <dependency id="MahApps.Metro" version="2.4.10" exclude="Build,Analyzers" />
+        <dependency id="MicroSerializationLibrary" version="1.0.1" exclude="Build,Analyzers" />
+        <dependency id="MicroSerializationLibrary.JSON" version="1.0.1" exclude="Build,Analyzers" />
+        <dependency id="System.Drawing.Common" version="9.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net9.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\Vin\Documents\GitHub\Jack-Debug\bin\Debug\net9.0-windows7.0\JackDebug.dll" target="lib\net9.0-windows7.0\JackDebug.dll" />
+  </files>
+</package>

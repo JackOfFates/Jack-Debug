@@ -54,14 +54,6 @@
               "target": "Package",
               "version": "[2.4.10, )"
             },
-            "MicroSerializationLibrary": {
-              "target": "Package",
-              "version": "[1.0.1, )"
-            },
-            "MicroSerializationLibrary.JSON": {
-              "target": "Package",
-              "version": "[1.0.1, )"
-            },
             "System.Drawing.Common": {
               "target": "Package",
               "version": "[9.0.0, )"

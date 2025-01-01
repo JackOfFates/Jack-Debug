@@ -21,3 +21,10 @@ C:\Users\Vin\source\repos\wShare\JackDebug\obj\Debug\net6.0-windows\refint\JackD
 C:\Users\Vin\source\repos\wShare\JackDebug\obj\Debug\net6.0-windows\JackDebug.pdb
 C:\Users\Vin\source\repos\wShare\JackDebug\obj\Debug\net6.0-windows\ref\JackDebug.dll
 C:\Users\Vin\source\repos\wShare\JackDebug\obj\Debug\net6.0-windows\JackDebug.vbproj.Up2Date
+C:\Users\Vin\Documents\GitHub\Jack-Debug\obj\Debug\net6.0-windows\JackDebug.dll
+C:\Users\Vin\Documents\GitHub\Jack-Debug\obj\Debug\net6.0-windows\refint\JackDebug.dll
+C:\Users\Vin\Documents\GitHub\Jack-Debug\obj\Debug\net6.0-windows\JackDebug.pdb
+C:\Users\Vin\Documents\GitHub\Jack-Debug\obj\Debug\net6.0-windows\JackDebug.vbproj.AssemblyReference.cache
+C:\Users\Vin\Documents\GitHub\Jack-Debug\obj\Debug\net6.0-windows\DebugWindow.g.vb
+C:\Users\Vin\Documents\GitHub\Jack-Debug\obj\Debug\net6.0-windows\JackDebug_MarkupCompile.cache
+C:\Users\Vin\Documents\GitHub\Jack-Debug\obj\Debug\net6.0-windows\JackDebug_MarkupCompile.lref

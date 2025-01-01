@@ -23,6 +23,7 @@ Imports System.Windows.Controls.Primitives
 Imports System.Windows.Controls.Ribbon
 Imports System.Windows.Data
 Imports System.Windows.Documents
+Imports System.Windows.Forms.Integration
 Imports System.Windows.Ink
 Imports System.Windows.Input
 Imports System.Windows.Markup

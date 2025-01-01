@@ -4,7 +4,7 @@
 library
 VB
 .vb
-C:\Users\Vin\Documents\GitHub\Jack-Debug\obj\Debug\net6.0-windows\
+C:\Users\Vin\Documents\GitHub\Jack-Debug\obj\Debug\net9.0-windows7.0\
 JackDebug
 none
 false
@@ -13,8 +13,8 @@ false
 1-2033030555
 
 10-460535309
-198246845751
+216-523601083
 DebugWindow.xaml;
 
-True
+False
 
