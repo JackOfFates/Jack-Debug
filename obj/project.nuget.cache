@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "7g0oHm3dQp4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vin\\source\\repos\\wShare\\JackDebug\\JackDebug.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vin\\.nuget\\packages\\controlzex\\4.4.0\\controlzex.4.4.0.nupkg.sha512",
+    "C:\\Users\\Vin\\.nuget\\packages\\mahapps.metro\\2.4.10\\mahapps.metro.2.4.10.nupkg.sha512",
+    "C:\\Users\\Vin\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\Vin\\.nuget\\packages\\system.drawing.common\\9.0.0\\system.drawing.common.9.0.0.nupkg.sha512",
+    "C:\\Users\\Vin\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
