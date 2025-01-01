@@ -18,7 +18,7 @@ Imports System.Reflection
  Assembly: System.Reflection.AssemblyCopyrightAttribute("Copyright © JackOfFates 2024"),  _
  Assembly: System.Reflection.AssemblyDescriptionAttribute("Debug your WPF application easily with JackDebug."),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.2.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.2+c57b2f813f2749e106620428fb8150206243a20d"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.2+f69f2a03d596bcafcb377b351a921741dc6b3523"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("JackDebug.WPF"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("JackDebug.WPF"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.2.0"),  _

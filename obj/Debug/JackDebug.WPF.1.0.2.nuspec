@@ -11,7 +11,7 @@
     <releaseNotes>Bug fixes</releaseNotes>
     <copyright>Copyright © JackOfFates 2024</copyright>
     <tags>Debug Debugging Visual Graphing Graph Variables Variable Runtime Realtime Live</tags>
-    <repository type="git" commit="482fffc62c38d946407d72278e93a4f669f8dc51" />
+    <repository type="git" commit="f69f2a03d596bcafcb377b351a921741dc6b3523" />
     <dependencies>
       <group targetFramework="net9.0-windows7.0">
         <dependency id="MahApps.Metro" version="2.4.10" exclude="Build,Analyzers" />
