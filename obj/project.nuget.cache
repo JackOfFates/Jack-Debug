@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "oUSSgZbqP0k=",
+  "dgSpecHash": "VN+v65tv+Dk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vin\\Documents\\GitHub\\Jack-Debug\\JackDebug.vbproj",
+  "projectFilePath": "C:\\Users\\Vin\\Documents\\GitHub\\Jack-Debug\\JackDebug.WPF.vbproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vin\\.nuget\\packages\\controlzex\\4.4.0\\controlzex.4.4.0.nupkg.sha512",
     "C:\\Users\\Vin\\.nuget\\packages\\mahapps.metro\\2.4.10\\mahapps.metro.2.4.10.nupkg.sha512",
-    "C:\\Users\\Vin\\.nuget\\packages\\microserializationlibrary\\1.0.1\\microserializationlibrary.1.0.1.nupkg.sha512",
-    "C:\\Users\\Vin\\.nuget\\packages\\microserializationlibrary.json\\1.0.1\\microserializationlibrary.json.1.0.1.nupkg.sha512",
+    "C:\\Users\\Vin\\.nuget\\packages\\microserializationlibrary\\1.0.2\\microserializationlibrary.1.0.2.nupkg.sha512",
+    "C:\\Users\\Vin\\.nuget\\packages\\microserializationlibrary.json\\1.0.2\\microserializationlibrary.json.1.0.2.nupkg.sha512",
     "C:\\Users\\Vin\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.0\\microsoft.win32.systemevents.9.0.0.nupkg.sha512",
     "C:\\Users\\Vin\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
     "C:\\Users\\Vin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",

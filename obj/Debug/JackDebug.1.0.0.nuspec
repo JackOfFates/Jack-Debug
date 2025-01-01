@@ -5,7 +5,7 @@
     <version>1.0.0</version>
     <authors>JackDebug</authors>
     <description>Package Description</description>
-    <repository type="git" commit="fca2da965ee2a033faf9f4062b03c01fbf727afb" />
+    <repository type="git" commit="482fffc62c38d946407d72278e93a4f669f8dc51" />
     <dependencies>
       <group targetFramework="net9.0-windows7.0">
         <dependency id="MahApps.Metro" version="2.4.10" exclude="Build,Analyzers" />
@@ -19,8 +19,13 @@
         <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
       </group>
     </frameworkReferences>
+    <contentFiles>
+      <files include="any/net9.0-windows7.0/favicon.ico" buildAction="Content" />
+    </contentFiles>
   </metadata>
   <files>
     <file src="C:\Users\Vin\Documents\GitHub\Jack-Debug\bin\Debug\net9.0-windows7.0\JackDebug.dll" target="lib\net9.0-windows7.0\JackDebug.dll" />
+    <file src="C:\Users\Vin\Documents\GitHub\Jack-Debug\favicon.ico" target="content\favicon.ico" />
+    <file src="C:\Users\Vin\Documents\GitHub\Jack-Debug\favicon.ico" target="contentFiles\any\net9.0-windows7.0\favicon.ico" />
   </files>
 </package>

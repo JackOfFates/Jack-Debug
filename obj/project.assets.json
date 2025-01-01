@@ -46,7 +46,7 @@
           }
         }
       },
-      "MicroSerializationLibrary/1.0.1": {
+      "MicroSerializationLibrary/1.0.2": {
         "type": "package",
         "dependencies": {
           "Newtonsoft.Json": "13.0.3"
@@ -65,10 +65,10 @@
           "Microsoft.WindowsDesktop.App.WindowsForms"
         ]
       },
-      "MicroSerializationLibrary.JSON/1.0.1": {
+      "MicroSerializationLibrary.JSON/1.0.2": {
         "type": "package",
         "dependencies": {
-          "MicroSerializationLibrary": "1.0.1",
+          "MicroSerializationLibrary": "1.0.2",
           "Newtonsoft.Json": "13.0.3",
           "System.Data.DataSetExtensions": "4.5.0"
         },
@@ -242,35 +242,33 @@
         "tools/VisualStudioToolsManifest.xml"
       ]
     },
-    "MicroSerializationLibrary/1.0.1": {
-      "sha512": "ycsvN6w1/Z1hlhfBeKYSbing4hbok0db9x4CDQxXQnasZ2JXZZTfOe3mvMKfCTqEfV5OW/w+iH6vhssa1Mns2A==",
+    "MicroSerializationLibrary/1.0.2": {
+      "sha512": "+KNetC+dP5UWrHGzVs818UTNxONJ5QxpYzrgwMt0dKy4h+3Kqqqpl+mpVxZzhxEFFKqUMBDbp66HfrT9lDxvLg==",
       "type": "package",
-      "path": "microserializationlibrary/1.0.1",
+      "path": "microserializationlibrary/1.0.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Dark_noBG__blueface_256.png",
         "License.txt",
-        "MicroSerializationLibrary_README.md",
         "lib/net9.0-windows7.0/MicroSerializationLibrary.dll",
         "lib/net9.0-windows7.0/MicroSerializationLibrary.xml",
-        "microserializationlibrary.1.0.1.nupkg.sha512",
+        "microserializationlibrary.1.0.2.nupkg.sha512",
         "microserializationlibrary.nuspec"
       ]
     },
-    "MicroSerializationLibrary.JSON/1.0.1": {
-      "sha512": "7m6eXPEXHoSNb8dwTc2+TewBTYVqRMFem6yQBlqm+BHQ8xhT9GEnQoX0VUWZy1z3Jf2WwJGphvYbSJwZIwwhiQ==",
+    "MicroSerializationLibrary.JSON/1.0.2": {
+      "sha512": "+BedE69ZxNFdAsM32URUGC+ozKQ4q+thx/5tMG9KsXCcoXY/0aOLJ7wB3esLArGqh1D1xshsmtMZu+w5KLcD2g==",
       "type": "package",
-      "path": "microserializationlibrary.json/1.0.1",
+      "path": "microserializationlibrary.json/1.0.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Dark_noBG__blueface_256.png",
         "License.txt",
-        "MicroSerializationLibrary_README.md",
         "lib/net9.0-windows7.0/MicroSerializationLibrary.JSON.dll",
         "lib/net9.0-windows7.0/MicroSerializationLibrary.JSON.xml",
-        "microserializationlibrary.json.1.0.1.nupkg.sha512",
+        "microserializationlibrary.json.1.0.2.nupkg.sha512",
         "microserializationlibrary.json.nuspec"
       ]
     },
@@ -444,8 +442,8 @@
   "projectFileDependencyGroups": {
     "net9.0-windows7.0": [
       "MahApps.Metro >= 2.4.10",
-      "MicroSerializationLibrary >= 1.0.1",
-      "MicroSerializationLibrary.JSON >= 1.0.1",
+      "MicroSerializationLibrary >= 1.0.2",
+      "MicroSerializationLibrary.JSON >= 1.0.2",
       "System.Drawing.Common >= 9.0.0"
     ]
   },
@@ -454,11 +452,11 @@
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.2",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vin\\Documents\\GitHub\\Jack-Debug\\JackDebug.vbproj",
-      "projectName": "JackDebug",
-      "projectPath": "C:\\Users\\Vin\\Documents\\GitHub\\Jack-Debug\\JackDebug.vbproj",
+      "projectUniqueName": "C:\\Users\\Vin\\Documents\\GitHub\\Jack-Debug\\JackDebug.WPF.vbproj",
+      "projectName": "JackDebug.WPF",
+      "projectPath": "C:\\Users\\Vin\\Documents\\GitHub\\Jack-Debug\\JackDebug.WPF.vbproj",
       "packagesPath": "C:\\Users\\Vin\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Vin\\Documents\\GitHub\\Jack-Debug\\obj\\",
       "projectStyle": "PackageReference",
@@ -505,11 +503,11 @@
           },
           "MicroSerializationLibrary": {
             "target": "Package",
-            "version": "[1.0.1, )"
+            "version": "[1.0.2, )"
           },
           "MicroSerializationLibrary.JSON": {
             "target": "Package",
-            "version": "[1.0.1, )"
+            "version": "[1.0.2, )"
           },
           "System.Drawing.Common": {
             "target": "Package",
