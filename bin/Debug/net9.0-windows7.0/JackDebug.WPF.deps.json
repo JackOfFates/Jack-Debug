@@ -6,11 +6,10 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v9.0": {
-      "JackDebug.WPF/1.0.3": {
+      "JackDebug.WPF/1.0.4": {
         "dependencies": {
           "MahApps.Metro": "2.4.10",
-          "MicroSerializationLibrary": "1.0.2",
-          "MicroSerializationLibrary.JSON": "1.0.2",
+          "MicroSerializationLibrary": "1.1.2",
           "System.Drawing.Common": "9.0.0"
         },
         "runtime": {
@@ -45,25 +44,9 @@
           }
         }
       },
-      "MicroSerializationLibrary/1.0.2": {
-        "dependencies": {
-          "Newtonsoft.Json": "13.0.3"
-        },
+      "MicroSerializationLibrary/1.1.2": {
         "runtime": {
           "lib/net9.0-windows7.0/MicroSerializationLibrary.dll": {
-            "assemblyVersion": "0.0.0.0",
-            "fileVersion": "0.0.0.0"
-          }
-        }
-      },
-      "MicroSerializationLibrary.JSON/1.0.2": {
-        "dependencies": {
-          "MicroSerializationLibrary": "1.0.2",
-          "Newtonsoft.Json": "13.0.3",
-          "System.Data.DataSetExtensions": "4.5.0"
-        },
-        "runtime": {
-          "lib/net9.0-windows7.0/MicroSerializationLibrary.JSON.dll": {
             "assemblyVersion": "0.0.0.0",
             "fileVersion": "0.0.0.0"
           }
@@ -78,15 +61,6 @@
           }
         }
       },
-      "Newtonsoft.Json/13.0.3": {
-        "runtime": {
-          "lib/net6.0/Newtonsoft.Json.dll": {
-            "assemblyVersion": "13.0.0.0",
-            "fileVersion": "13.0.3.27908"
-          }
-        }
-      },
-      "System.Data.DataSetExtensions/4.5.0": {},
       "System.Drawing.Common/9.0.0": {
         "dependencies": {
           "Microsoft.Win32.SystemEvents": "9.0.0"
@@ -96,7 +70,7 @@
     }
   },
   "libraries": {
-    "JackDebug.WPF/1.0.3": {
+    "JackDebug.WPF/1.0.4": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -115,19 +89,12 @@
       "path": "mahapps.metro/2.4.10",
       "hashPath": "mahapps.metro.2.4.10.nupkg.sha512"
     },
-    "MicroSerializationLibrary/1.0.2": {
+    "MicroSerializationLibrary/1.1.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-+KNetC+dP5UWrHGzVs818UTNxONJ5QxpYzrgwMt0dKy4h+3Kqqqpl+mpVxZzhxEFFKqUMBDbp66HfrT9lDxvLg==",
-      "path": "microserializationlibrary/1.0.2",
-      "hashPath": "microserializationlibrary.1.0.2.nupkg.sha512"
-    },
-    "MicroSerializationLibrary.JSON/1.0.2": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-+BedE69ZxNFdAsM32URUGC+ozKQ4q+thx/5tMG9KsXCcoXY/0aOLJ7wB3esLArGqh1D1xshsmtMZu+w5KLcD2g==",
-      "path": "microserializationlibrary.json/1.0.2",
-      "hashPath": "microserializationlibrary.json.1.0.2.nupkg.sha512"
+      "sha512": "sha512-P6tzJ8FEOqAselgUqGP9Y1lwrfQYFM4mZ+ZaFCPCnAib8ZnF656Q3u0kTEOc+OJuBITH7IwFUvfCwU2kTCRDwg==",
+      "path": "microserializationlibrary/1.1.2",
+      "hashPath": "microserializationlibrary.1.1.2.nupkg.sha512"
     },
     "Microsoft.Win32.SystemEvents/9.0.0": {
       "type": "package",
@@ -142,20 +109,6 @@
       "sha512": "sha512-5sPWkbqImc2t1aQwIfJcKsUo7tOg1Tr8+6xVzZJB56Nzt4u9NlpcLofgdX/aRYpPKdWDA3U23Akw1KQzU5e82g==",
       "path": "microsoft.xaml.behaviors.wpf/1.1.19",
       "hashPath": "microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512"
-    },
-    "Newtonsoft.Json/13.0.3": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
-      "path": "newtonsoft.json/13.0.3",
-      "hashPath": "newtonsoft.json.13.0.3.nupkg.sha512"
-    },
-    "System.Data.DataSetExtensions/4.5.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-221clPs1445HkTBZPL+K9sDBdJRB8UN8rgjO3ztB0CQ26z//fmJXtlsr6whGatscsKGBrhJl5bwJuKSA8mwFOw==",
-      "path": "system.data.datasetextensions/4.5.0",
-      "hashPath": "system.data.datasetextensions.4.5.0.nupkg.sha512"
     },
     "System.Drawing.Common/9.0.0": {
       "type": "package",
