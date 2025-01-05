@@ -120,7 +120,7 @@ Partial Public Class DebugWindow
             Return
         End If
         _contentLoaded = true
-        Dim resourceLocater As System.Uri = New System.Uri("/JackDebug.WPF;V1.0.5.0;component/debugwindow.xaml", System.UriKind.Relative)
+        Dim resourceLocater As System.Uri = New System.Uri("/JackDebug.WPF;V1.1.0.0;component/debugwindow.xaml", System.UriKind.Relative)
         
         #ExternalSource("..\..\..\DebugWindow.xaml",1)
         System.Windows.Application.LoadComponent(Me, resourceLocater)
