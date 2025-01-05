@@ -5,7 +5,7 @@
   },
   "projects": {
     "C:\\Users\\Vin\\Documents\\GitHub\\Jack-Debug\\JackDebug.WPF.vbproj": {
-      "version": "1.0.4",
+      "version": "1.0.5",
       "restore": {
         "projectUniqueName": "C:\\Users\\Vin\\Documents\\GitHub\\Jack-Debug\\JackDebug.WPF.vbproj",
         "projectName": "JackDebug.WPF",
@@ -213,7 +213,7 @@
             },
             "MicroSerializationLibrary": {
               "target": "Package",
-              "version": "[1.1.2, )"
+              "version": "[1.1.2.2, )"
             },
             "System.Drawing.Common": {
               "target": "Package",
@@ -250,7 +250,7 @@
             },
             "MicroSerializationLibrary": {
               "target": "Package",
-              "version": "[1.1.2, )"
+              "version": "[1.1.2.2, )"
             },
             "System.Drawing.Common": {
               "target": "Package",
@@ -287,7 +287,7 @@
             },
             "MicroSerializationLibrary": {
               "target": "Package",
-              "version": "[1.1.2, )"
+              "version": "[1.1.2.2, )"
             },
             "System.Drawing.Common": {
               "target": "Package",
@@ -333,7 +333,7 @@
             },
             "MicroSerializationLibrary": {
               "target": "Package",
-              "version": "[1.1.2, )"
+              "version": "[1.1.2.2, )"
             },
             "System.Drawing.Common": {
               "target": "Package",
@@ -379,7 +379,7 @@
             },
             "MicroSerializationLibrary": {
               "target": "Package",
-              "version": "[1.1.2, )"
+              "version": "[1.1.2.2, )"
             },
             "System.Drawing.Common": {
               "target": "Package",
@@ -425,7 +425,7 @@
             },
             "MicroSerializationLibrary": {
               "target": "Package",
-              "version": "[1.1.2, )"
+              "version": "[1.1.2.2, )"
             },
             "System.Drawing.Common": {
               "target": "Package",
@@ -471,7 +471,7 @@
             },
             "MicroSerializationLibrary": {
               "target": "Package",
-              "version": "[1.1.2, )"
+              "version": "[1.1.2.2, )"
             },
             "System.Drawing.Common": {
               "target": "Package",
@@ -517,7 +517,7 @@
             },
             "MicroSerializationLibrary": {
               "target": "Package",
-              "version": "[1.1.2, )"
+              "version": "[1.1.2.2, )"
             },
             "System.Drawing.Common": {
               "target": "Package",
@@ -563,7 +563,7 @@
             },
             "MicroSerializationLibrary": {
               "target": "Package",
-              "version": "[1.1.2, )"
+              "version": "[1.1.2.2, )"
             },
             "System.Drawing.Common": {
               "target": "Package",
@@ -600,7 +600,7 @@
             },
             "MicroSerializationLibrary": {
               "target": "Package",
-              "version": "[1.1.2, )"
+              "version": "[1.1.2.2, )"
             },
             "System.Drawing.Common": {
               "target": "Package",
@@ -637,7 +637,7 @@
             },
             "MicroSerializationLibrary": {
               "target": "Package",
-              "version": "[1.1.2, )"
+              "version": "[1.1.2.2, )"
             },
             "System.Drawing.Common": {
               "target": "Package",
@@ -683,7 +683,7 @@
             },
             "MicroSerializationLibrary": {
               "target": "Package",
-              "version": "[1.1.2, )"
+              "version": "[1.1.2.2, )"
             },
             "System.Drawing.Common": {
               "target": "Package",
@@ -729,7 +729,7 @@
             },
             "MicroSerializationLibrary": {
               "target": "Package",
-              "version": "[1.1.2, )"
+              "version": "[1.1.2.2, )"
             },
             "System.Drawing.Common": {
               "target": "Package",
@@ -775,7 +775,7 @@
             },
             "MicroSerializationLibrary": {
               "target": "Package",
-              "version": "[1.1.2, )"
+              "version": "[1.1.2.2, )"
             },
             "System.Drawing.Common": {
               "target": "Package",
@@ -821,7 +821,7 @@
             },
             "MicroSerializationLibrary": {
               "target": "Package",
-              "version": "[1.1.2, )"
+              "version": "[1.1.2.2, )"
             },
             "System.Drawing.Common": {
               "target": "Package",
@@ -867,7 +867,7 @@
             },
             "MicroSerializationLibrary": {
               "target": "Package",
-              "version": "[1.1.2, )"
+              "version": "[1.1.2.2, )"
             },
             "System.Drawing.Common": {
               "target": "Package",
@@ -913,7 +913,7 @@
             },
             "MicroSerializationLibrary": {
               "target": "Package",
-              "version": "[1.1.2, )"
+              "version": "[1.1.2.2, )"
             },
             "System.Drawing.Common": {
               "target": "Package",
@@ -950,7 +950,7 @@
             },
             "MicroSerializationLibrary": {
               "target": "Package",
-              "version": "[1.1.2, )"
+              "version": "[1.1.2.2, )"
             },
             "System.Drawing.Common": {
               "target": "Package",
@@ -987,7 +987,7 @@
             },
             "MicroSerializationLibrary": {
               "target": "Package",
-              "version": "[1.1.2, )"
+              "version": "[1.1.2.2, )"
             },
             "System.Drawing.Common": {
               "target": "Package",
@@ -1033,7 +1033,7 @@
             },
             "MicroSerializationLibrary": {
               "target": "Package",
-              "version": "[1.1.2, )"
+              "version": "[1.1.2.2, )"
             },
             "System.Drawing.Common": {
               "target": "Package",
@@ -1079,7 +1079,7 @@
             },
             "MicroSerializationLibrary": {
               "target": "Package",
-              "version": "[1.1.2, )"
+              "version": "[1.1.2.2, )"
             },
             "System.Drawing.Common": {
               "target": "Package",
@@ -1125,7 +1125,7 @@
             },
             "MicroSerializationLibrary": {
               "target": "Package",
-              "version": "[1.1.2, )"
+              "version": "[1.1.2.2, )"
             },
             "System.Drawing.Common": {
               "target": "Package",
@@ -1171,7 +1171,7 @@
             },
             "MicroSerializationLibrary": {
               "target": "Package",
-              "version": "[1.1.2, )"
+              "version": "[1.1.2.2, )"
             },
             "System.Drawing.Common": {
               "target": "Package",
@@ -1217,7 +1217,7 @@
             },
             "MicroSerializationLibrary": {
               "target": "Package",
-              "version": "[1.1.2, )"
+              "version": "[1.1.2.2, )"
             },
             "System.Drawing.Common": {
               "target": "Package",
@@ -1263,7 +1263,7 @@
             },
             "MicroSerializationLibrary": {
               "target": "Package",
-              "version": "[1.1.2, )"
+              "version": "[1.1.2.2, )"
             },
             "System.Drawing.Common": {
               "target": "Package",
@@ -1300,7 +1300,7 @@
             },
             "MicroSerializationLibrary": {
               "target": "Package",
-              "version": "[1.1.2, )"
+              "version": "[1.1.2.2, )"
             },
             "System.Drawing.Common": {
               "target": "Package",
@@ -1337,7 +1337,7 @@
             },
             "MicroSerializationLibrary": {
               "target": "Package",
-              "version": "[1.1.2, )"
+              "version": "[1.1.2.2, )"
             },
             "System.Drawing.Common": {
               "target": "Package",
@@ -1383,7 +1383,7 @@
             },
             "MicroSerializationLibrary": {
               "target": "Package",
-              "version": "[1.1.2, )"
+              "version": "[1.1.2.2, )"
             },
             "System.Drawing.Common": {
               "target": "Package",
@@ -1429,7 +1429,7 @@
             },
             "MicroSerializationLibrary": {
               "target": "Package",
-              "version": "[1.1.2, )"
+              "version": "[1.1.2.2, )"
             },
             "System.Drawing.Common": {
               "target": "Package",
@@ -1475,7 +1475,7 @@
             },
             "MicroSerializationLibrary": {
               "target": "Package",
-              "version": "[1.1.2, )"
+              "version": "[1.1.2.2, )"
             },
             "System.Drawing.Common": {
               "target": "Package",
@@ -1521,7 +1521,7 @@
             },
             "MicroSerializationLibrary": {
               "target": "Package",
-              "version": "[1.1.2, )"
+              "version": "[1.1.2.2, )"
             },
             "System.Drawing.Common": {
               "target": "Package",
@@ -1567,7 +1567,7 @@
             },
             "MicroSerializationLibrary": {
               "target": "Package",
-              "version": "[1.1.2, )"
+              "version": "[1.1.2.2, )"
             },
             "System.Drawing.Common": {
               "target": "Package",

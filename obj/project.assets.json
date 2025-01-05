@@ -46,7 +46,7 @@
           }
         }
       },
-      "MicroSerializationLibrary/1.1.2": {
+      "MicroSerializationLibrary/1.1.2.2": {
         "type": "package",
         "compile": {
           "lib/net6.0-windows10.0.17763/MicroSerializationLibrary.dll": {
@@ -150,7 +150,7 @@
           }
         }
       },
-      "MicroSerializationLibrary/1.1.2": {
+      "MicroSerializationLibrary/1.1.2.2": {
         "type": "package",
         "compile": {
           "lib/net6.0-windows10.0.18362/MicroSerializationLibrary.dll": {
@@ -254,7 +254,7 @@
           }
         }
       },
-      "MicroSerializationLibrary/1.1.2": {
+      "MicroSerializationLibrary/1.1.2.2": {
         "type": "package",
         "compile": {
           "lib/net6.0-windows10.0.19041/MicroSerializationLibrary.dll": {
@@ -358,7 +358,7 @@
           }
         }
       },
-      "MicroSerializationLibrary/1.1.2": {
+      "MicroSerializationLibrary/1.1.2.2": {
         "type": "package",
         "compile": {
           "lib/net6.0-windows10.0.20348/MicroSerializationLibrary.dll": {
@@ -462,7 +462,7 @@
           }
         }
       },
-      "MicroSerializationLibrary/1.1.2": {
+      "MicroSerializationLibrary/1.1.2.2": {
         "type": "package",
         "compile": {
           "lib/net6.0-windows10.0.22621/MicroSerializationLibrary.dll": {
@@ -566,7 +566,7 @@
           }
         }
       },
-      "MicroSerializationLibrary/1.1.2": {
+      "MicroSerializationLibrary/1.1.2.2": {
         "type": "package",
         "compile": {
           "lib/net6.0-windows10.0.26100/MicroSerializationLibrary.dll": {
@@ -670,7 +670,7 @@
           }
         }
       },
-      "MicroSerializationLibrary/1.1.2": {
+      "MicroSerializationLibrary/1.1.2.2": {
         "type": "package",
         "compile": {
           "lib/net6.0-windows7.0/MicroSerializationLibrary.dll": {
@@ -774,7 +774,7 @@
           }
         }
       },
-      "MicroSerializationLibrary/1.1.2": {
+      "MicroSerializationLibrary/1.1.2.2": {
         "type": "package",
         "compile": {
           "lib/net6.0-windows8.0/MicroSerializationLibrary.dll": {
@@ -878,7 +878,7 @@
           }
         }
       },
-      "MicroSerializationLibrary/1.1.2": {
+      "MicroSerializationLibrary/1.1.2.2": {
         "type": "package",
         "compile": {
           "lib/net7.0-windows10.0.17763/MicroSerializationLibrary.dll": {
@@ -982,7 +982,7 @@
           }
         }
       },
-      "MicroSerializationLibrary/1.1.2": {
+      "MicroSerializationLibrary/1.1.2.2": {
         "type": "package",
         "compile": {
           "lib/net7.0-windows10.0.18362/MicroSerializationLibrary.dll": {
@@ -1086,7 +1086,7 @@
           }
         }
       },
-      "MicroSerializationLibrary/1.1.2": {
+      "MicroSerializationLibrary/1.1.2.2": {
         "type": "package",
         "compile": {
           "lib/net7.0-windows10.0.19041/MicroSerializationLibrary.dll": {
@@ -1190,7 +1190,7 @@
           }
         }
       },
-      "MicroSerializationLibrary/1.1.2": {
+      "MicroSerializationLibrary/1.1.2.2": {
         "type": "package",
         "compile": {
           "lib/net7.0-windows10.0.20348/MicroSerializationLibrary.dll": {
@@ -1294,7 +1294,7 @@
           }
         }
       },
-      "MicroSerializationLibrary/1.1.2": {
+      "MicroSerializationLibrary/1.1.2.2": {
         "type": "package",
         "compile": {
           "lib/net7.0-windows10.0.22621/MicroSerializationLibrary.dll": {
@@ -1398,7 +1398,7 @@
           }
         }
       },
-      "MicroSerializationLibrary/1.1.2": {
+      "MicroSerializationLibrary/1.1.2.2": {
         "type": "package",
         "compile": {
           "lib/net7.0-windows10.0.26100/MicroSerializationLibrary.dll": {
@@ -1502,7 +1502,7 @@
           }
         }
       },
-      "MicroSerializationLibrary/1.1.2": {
+      "MicroSerializationLibrary/1.1.2.2": {
         "type": "package",
         "compile": {
           "lib/net7.0-windows7.0/MicroSerializationLibrary.dll": {
@@ -1606,7 +1606,7 @@
           }
         }
       },
-      "MicroSerializationLibrary/1.1.2": {
+      "MicroSerializationLibrary/1.1.2.2": {
         "type": "package",
         "compile": {
           "lib/net7.0-windows8.0/MicroSerializationLibrary.dll": {
@@ -1710,7 +1710,7 @@
           }
         }
       },
-      "MicroSerializationLibrary/1.1.2": {
+      "MicroSerializationLibrary/1.1.2.2": {
         "type": "package",
         "compile": {
           "lib/net8.0-windows10.0.17763/MicroSerializationLibrary.dll": {
@@ -1845,7 +1845,7 @@
           }
         }
       },
-      "MicroSerializationLibrary/1.1.2": {
+      "MicroSerializationLibrary/1.1.2.2": {
         "type": "package",
         "compile": {
           "lib/net8.0-windows10.0.18362/MicroSerializationLibrary.dll": {
@@ -1980,7 +1980,7 @@
           }
         }
       },
-      "MicroSerializationLibrary/1.1.2": {
+      "MicroSerializationLibrary/1.1.2.2": {
         "type": "package",
         "compile": {
           "lib/net8.0-windows10.0.19041/MicroSerializationLibrary.dll": {
@@ -2115,7 +2115,7 @@
           }
         }
       },
-      "MicroSerializationLibrary/1.1.2": {
+      "MicroSerializationLibrary/1.1.2.2": {
         "type": "package",
         "compile": {
           "lib/net8.0-windows10.0.20348/MicroSerializationLibrary.dll": {
@@ -2250,7 +2250,7 @@
           }
         }
       },
-      "MicroSerializationLibrary/1.1.2": {
+      "MicroSerializationLibrary/1.1.2.2": {
         "type": "package",
         "compile": {
           "lib/net8.0-windows10.0.22621/MicroSerializationLibrary.dll": {
@@ -2385,7 +2385,7 @@
           }
         }
       },
-      "MicroSerializationLibrary/1.1.2": {
+      "MicroSerializationLibrary/1.1.2.2": {
         "type": "package",
         "compile": {
           "lib/net8.0-windows10.0.26100/MicroSerializationLibrary.dll": {
@@ -2520,7 +2520,7 @@
           }
         }
       },
-      "MicroSerializationLibrary/1.1.2": {
+      "MicroSerializationLibrary/1.1.2.2": {
         "type": "package",
         "compile": {
           "lib/net8.0-windows7.0/MicroSerializationLibrary.dll": {
@@ -2655,7 +2655,7 @@
           }
         }
       },
-      "MicroSerializationLibrary/1.1.2": {
+      "MicroSerializationLibrary/1.1.2.2": {
         "type": "package",
         "compile": {
           "lib/net8.0-windows8.0/MicroSerializationLibrary.dll": {
@@ -2790,7 +2790,7 @@
           }
         }
       },
-      "MicroSerializationLibrary/1.1.2": {
+      "MicroSerializationLibrary/1.1.2.2": {
         "type": "package",
         "compile": {
           "lib/net9.0-windows10.0.17763/MicroSerializationLibrary.dll": {
@@ -2925,7 +2925,7 @@
           }
         }
       },
-      "MicroSerializationLibrary/1.1.2": {
+      "MicroSerializationLibrary/1.1.2.2": {
         "type": "package",
         "compile": {
           "lib/net9.0-windows10.0.18362/MicroSerializationLibrary.dll": {
@@ -3060,7 +3060,7 @@
           }
         }
       },
-      "MicroSerializationLibrary/1.1.2": {
+      "MicroSerializationLibrary/1.1.2.2": {
         "type": "package",
         "compile": {
           "lib/net9.0-windows10.0.19041/MicroSerializationLibrary.dll": {
@@ -3195,7 +3195,7 @@
           }
         }
       },
-      "MicroSerializationLibrary/1.1.2": {
+      "MicroSerializationLibrary/1.1.2.2": {
         "type": "package",
         "compile": {
           "lib/net9.0-windows10.0.20348/MicroSerializationLibrary.dll": {
@@ -3330,7 +3330,7 @@
           }
         }
       },
-      "MicroSerializationLibrary/1.1.2": {
+      "MicroSerializationLibrary/1.1.2.2": {
         "type": "package",
         "compile": {
           "lib/net9.0-windows10.0.22621/MicroSerializationLibrary.dll": {
@@ -3465,7 +3465,7 @@
           }
         }
       },
-      "MicroSerializationLibrary/1.1.2": {
+      "MicroSerializationLibrary/1.1.2.2": {
         "type": "package",
         "compile": {
           "lib/net9.0-windows10.0.26100/MicroSerializationLibrary.dll": {
@@ -3600,7 +3600,7 @@
           }
         }
       },
-      "MicroSerializationLibrary/1.1.2": {
+      "MicroSerializationLibrary/1.1.2.2": {
         "type": "package",
         "compile": {
           "lib/net9.0-windows7.0/MicroSerializationLibrary.dll": {
@@ -3735,7 +3735,7 @@
           }
         }
       },
-      "MicroSerializationLibrary/1.1.2": {
+      "MicroSerializationLibrary/1.1.2.2": {
         "type": "package",
         "compile": {
           "lib/net9.0-windows8.0/MicroSerializationLibrary.dll": {
@@ -3885,10 +3885,10 @@
         "tools/VisualStudioToolsManifest.xml"
       ]
     },
-    "MicroSerializationLibrary/1.1.2": {
-      "sha512": "P6tzJ8FEOqAselgUqGP9Y1lwrfQYFM4mZ+ZaFCPCnAib8ZnF656Q3u0kTEOc+OJuBITH7IwFUvfCwU2kTCRDwg==",
+    "MicroSerializationLibrary/1.1.2.2": {
+      "sha512": "gboBUbcoNaTOcMeZQ5JIga5Mee6j35ICKLZeNnSswTBAiFOQ1dlYHVIRZuTkwdyaVUFC/NTE59XCI6Qet3EyHw==",
       "type": "package",
-      "path": "microserializationlibrary/1.1.2",
+      "path": "microserializationlibrary/1.1.2.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -3983,7 +3983,7 @@
         "lib/netstandard2.0/MicroSerializationLibrary.xml",
         "lib/netstandard2.1/MicroSerializationLibrary.dll",
         "lib/netstandard2.1/MicroSerializationLibrary.xml",
-        "microserializationlibrary.1.1.2.nupkg.sha512",
+        "microserializationlibrary.1.1.2.2.nupkg.sha512",
         "microserializationlibrary.nuspec"
       ]
     },
@@ -4108,162 +4108,162 @@
   "projectFileDependencyGroups": {
     "net6.0-windows10.0.17763": [
       "MahApps.Metro >= 2.4.10",
-      "MicroSerializationLibrary >= 1.1.2",
+      "MicroSerializationLibrary >= 1.1.2.2",
       "System.Drawing.Common >= 9.0.0"
     ],
     "net6.0-windows10.0.18362": [
       "MahApps.Metro >= 2.4.10",
-      "MicroSerializationLibrary >= 1.1.2",
+      "MicroSerializationLibrary >= 1.1.2.2",
       "System.Drawing.Common >= 9.0.0"
     ],
     "net6.0-windows10.0.19041": [
       "MahApps.Metro >= 2.4.10",
-      "MicroSerializationLibrary >= 1.1.2",
+      "MicroSerializationLibrary >= 1.1.2.2",
       "System.Drawing.Common >= 9.0.0"
     ],
     "net6.0-windows10.0.20348": [
       "MahApps.Metro >= 2.4.10",
-      "MicroSerializationLibrary >= 1.1.2",
+      "MicroSerializationLibrary >= 1.1.2.2",
       "System.Drawing.Common >= 9.0.0"
     ],
     "net6.0-windows10.0.22621": [
       "MahApps.Metro >= 2.4.10",
-      "MicroSerializationLibrary >= 1.1.2",
+      "MicroSerializationLibrary >= 1.1.2.2",
       "System.Drawing.Common >= 9.0.0"
     ],
     "net6.0-windows10.0.26100": [
       "MahApps.Metro >= 2.4.10",
-      "MicroSerializationLibrary >= 1.1.2",
+      "MicroSerializationLibrary >= 1.1.2.2",
       "System.Drawing.Common >= 9.0.0"
     ],
     "net6.0-windows7.0": [
       "MahApps.Metro >= 2.4.10",
-      "MicroSerializationLibrary >= 1.1.2",
+      "MicroSerializationLibrary >= 1.1.2.2",
       "System.Drawing.Common >= 9.0.0"
     ],
     "net6.0-windows8.0": [
       "MahApps.Metro >= 2.4.10",
-      "MicroSerializationLibrary >= 1.1.2",
+      "MicroSerializationLibrary >= 1.1.2.2",
       "System.Drawing.Common >= 9.0.0"
     ],
     "net7.0-windows10.0.17763": [
       "MahApps.Metro >= 2.4.10",
-      "MicroSerializationLibrary >= 1.1.2",
+      "MicroSerializationLibrary >= 1.1.2.2",
       "System.Drawing.Common >= 9.0.0"
     ],
     "net7.0-windows10.0.18362": [
       "MahApps.Metro >= 2.4.10",
-      "MicroSerializationLibrary >= 1.1.2",
+      "MicroSerializationLibrary >= 1.1.2.2",
       "System.Drawing.Common >= 9.0.0"
     ],
     "net7.0-windows10.0.19041": [
       "MahApps.Metro >= 2.4.10",
-      "MicroSerializationLibrary >= 1.1.2",
+      "MicroSerializationLibrary >= 1.1.2.2",
       "System.Drawing.Common >= 9.0.0"
     ],
     "net7.0-windows10.0.20348": [
       "MahApps.Metro >= 2.4.10",
-      "MicroSerializationLibrary >= 1.1.2",
+      "MicroSerializationLibrary >= 1.1.2.2",
       "System.Drawing.Common >= 9.0.0"
     ],
     "net7.0-windows10.0.22621": [
       "MahApps.Metro >= 2.4.10",
-      "MicroSerializationLibrary >= 1.1.2",
+      "MicroSerializationLibrary >= 1.1.2.2",
       "System.Drawing.Common >= 9.0.0"
     ],
     "net7.0-windows10.0.26100": [
       "MahApps.Metro >= 2.4.10",
-      "MicroSerializationLibrary >= 1.1.2",
+      "MicroSerializationLibrary >= 1.1.2.2",
       "System.Drawing.Common >= 9.0.0"
     ],
     "net7.0-windows7.0": [
       "MahApps.Metro >= 2.4.10",
-      "MicroSerializationLibrary >= 1.1.2",
+      "MicroSerializationLibrary >= 1.1.2.2",
       "System.Drawing.Common >= 9.0.0"
     ],
     "net7.0-windows8.0": [
       "MahApps.Metro >= 2.4.10",
-      "MicroSerializationLibrary >= 1.1.2",
+      "MicroSerializationLibrary >= 1.1.2.2",
       "System.Drawing.Common >= 9.0.0"
     ],
     "net8.0-windows10.0.17763": [
       "MahApps.Metro >= 2.4.10",
-      "MicroSerializationLibrary >= 1.1.2",
+      "MicroSerializationLibrary >= 1.1.2.2",
       "System.Drawing.Common >= 9.0.0"
     ],
     "net8.0-windows10.0.18362": [
       "MahApps.Metro >= 2.4.10",
-      "MicroSerializationLibrary >= 1.1.2",
+      "MicroSerializationLibrary >= 1.1.2.2",
       "System.Drawing.Common >= 9.0.0"
     ],
     "net8.0-windows10.0.19041": [
       "MahApps.Metro >= 2.4.10",
-      "MicroSerializationLibrary >= 1.1.2",
+      "MicroSerializationLibrary >= 1.1.2.2",
       "System.Drawing.Common >= 9.0.0"
     ],
     "net8.0-windows10.0.20348": [
       "MahApps.Metro >= 2.4.10",
-      "MicroSerializationLibrary >= 1.1.2",
+      "MicroSerializationLibrary >= 1.1.2.2",
       "System.Drawing.Common >= 9.0.0"
     ],
     "net8.0-windows10.0.22621": [
       "MahApps.Metro >= 2.4.10",
-      "MicroSerializationLibrary >= 1.1.2",
+      "MicroSerializationLibrary >= 1.1.2.2",
       "System.Drawing.Common >= 9.0.0"
     ],
     "net8.0-windows10.0.26100": [
       "MahApps.Metro >= 2.4.10",
-      "MicroSerializationLibrary >= 1.1.2",
+      "MicroSerializationLibrary >= 1.1.2.2",
       "System.Drawing.Common >= 9.0.0"
     ],
     "net8.0-windows7.0": [
       "MahApps.Metro >= 2.4.10",
-      "MicroSerializationLibrary >= 1.1.2",
+      "MicroSerializationLibrary >= 1.1.2.2",
       "System.Drawing.Common >= 9.0.0"
     ],
     "net8.0-windows8.0": [
       "MahApps.Metro >= 2.4.10",
-      "MicroSerializationLibrary >= 1.1.2",
+      "MicroSerializationLibrary >= 1.1.2.2",
       "System.Drawing.Common >= 9.0.0"
     ],
     "net9.0-windows10.0.17763": [
       "MahApps.Metro >= 2.4.10",
-      "MicroSerializationLibrary >= 1.1.2",
+      "MicroSerializationLibrary >= 1.1.2.2",
       "System.Drawing.Common >= 9.0.0"
     ],
     "net9.0-windows10.0.18362": [
       "MahApps.Metro >= 2.4.10",
-      "MicroSerializationLibrary >= 1.1.2",
+      "MicroSerializationLibrary >= 1.1.2.2",
       "System.Drawing.Common >= 9.0.0"
     ],
     "net9.0-windows10.0.19041": [
       "MahApps.Metro >= 2.4.10",
-      "MicroSerializationLibrary >= 1.1.2",
+      "MicroSerializationLibrary >= 1.1.2.2",
       "System.Drawing.Common >= 9.0.0"
     ],
     "net9.0-windows10.0.20348": [
       "MahApps.Metro >= 2.4.10",
-      "MicroSerializationLibrary >= 1.1.2",
+      "MicroSerializationLibrary >= 1.1.2.2",
       "System.Drawing.Common >= 9.0.0"
     ],
     "net9.0-windows10.0.22621": [
       "MahApps.Metro >= 2.4.10",
-      "MicroSerializationLibrary >= 1.1.2",
+      "MicroSerializationLibrary >= 1.1.2.2",
       "System.Drawing.Common >= 9.0.0"
     ],
     "net9.0-windows10.0.26100": [
       "MahApps.Metro >= 2.4.10",
-      "MicroSerializationLibrary >= 1.1.2",
+      "MicroSerializationLibrary >= 1.1.2.2",
       "System.Drawing.Common >= 9.0.0"
     ],
     "net9.0-windows7.0": [
       "MahApps.Metro >= 2.4.10",
-      "MicroSerializationLibrary >= 1.1.2",
+      "MicroSerializationLibrary >= 1.1.2.2",
       "System.Drawing.Common >= 9.0.0"
     ],
     "net9.0-windows8.0": [
       "MahApps.Metro >= 2.4.10",
-      "MicroSerializationLibrary >= 1.1.2",
+      "MicroSerializationLibrary >= 1.1.2.2",
       "System.Drawing.Common >= 9.0.0"
     ]
   },
@@ -4272,7 +4272,7 @@
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "restore": {
       "projectUniqueName": "C:\\Users\\Vin\\Documents\\GitHub\\Jack-Debug\\JackDebug.WPF.vbproj",
       "projectName": "JackDebug.WPF",
@@ -4480,7 +4480,7 @@
           },
           "MicroSerializationLibrary": {
             "target": "Package",
-            "version": "[1.1.2, )"
+            "version": "[1.1.2.2, )"
           },
           "System.Drawing.Common": {
             "target": "Package",
@@ -4517,7 +4517,7 @@
           },
           "MicroSerializationLibrary": {
             "target": "Package",
-            "version": "[1.1.2, )"
+            "version": "[1.1.2.2, )"
           },
           "System.Drawing.Common": {
             "target": "Package",
@@ -4554,7 +4554,7 @@
           },
           "MicroSerializationLibrary": {
             "target": "Package",
-            "version": "[1.1.2, )"
+            "version": "[1.1.2.2, )"
           },
           "System.Drawing.Common": {
             "target": "Package",
@@ -4600,7 +4600,7 @@
           },
           "MicroSerializationLibrary": {
             "target": "Package",
-            "version": "[1.1.2, )"
+            "version": "[1.1.2.2, )"
           },
           "System.Drawing.Common": {
             "target": "Package",
@@ -4646,7 +4646,7 @@
           },
           "MicroSerializationLibrary": {
             "target": "Package",
-            "version": "[1.1.2, )"
+            "version": "[1.1.2.2, )"
           },
           "System.Drawing.Common": {
             "target": "Package",
@@ -4692,7 +4692,7 @@
           },
           "MicroSerializationLibrary": {
             "target": "Package",
-            "version": "[1.1.2, )"
+            "version": "[1.1.2.2, )"
           },
           "System.Drawing.Common": {
             "target": "Package",
@@ -4738,7 +4738,7 @@
           },
           "MicroSerializationLibrary": {
             "target": "Package",
-            "version": "[1.1.2, )"
+            "version": "[1.1.2.2, )"
           },
           "System.Drawing.Common": {
             "target": "Package",
@@ -4784,7 +4784,7 @@
           },
           "MicroSerializationLibrary": {
             "target": "Package",
-            "version": "[1.1.2, )"
+            "version": "[1.1.2.2, )"
           },
           "System.Drawing.Common": {
             "target": "Package",
@@ -4830,7 +4830,7 @@
           },
           "MicroSerializationLibrary": {
             "target": "Package",
-            "version": "[1.1.2, )"
+            "version": "[1.1.2.2, )"
           },
           "System.Drawing.Common": {
             "target": "Package",
@@ -4867,7 +4867,7 @@
           },
           "MicroSerializationLibrary": {
             "target": "Package",
-            "version": "[1.1.2, )"
+            "version": "[1.1.2.2, )"
           },
           "System.Drawing.Common": {
             "target": "Package",
@@ -4904,7 +4904,7 @@
           },
           "MicroSerializationLibrary": {
             "target": "Package",
-            "version": "[1.1.2, )"
+            "version": "[1.1.2.2, )"
           },
           "System.Drawing.Common": {
             "target": "Package",
@@ -4950,7 +4950,7 @@
           },
           "MicroSerializationLibrary": {
             "target": "Package",
-            "version": "[1.1.2, )"
+            "version": "[1.1.2.2, )"
           },
           "System.Drawing.Common": {
             "target": "Package",
@@ -4996,7 +4996,7 @@
           },
           "MicroSerializationLibrary": {
             "target": "Package",
-            "version": "[1.1.2, )"
+            "version": "[1.1.2.2, )"
           },
           "System.Drawing.Common": {
             "target": "Package",
@@ -5042,7 +5042,7 @@
           },
           "MicroSerializationLibrary": {
             "target": "Package",
-            "version": "[1.1.2, )"
+            "version": "[1.1.2.2, )"
           },
           "System.Drawing.Common": {
             "target": "Package",
@@ -5088,7 +5088,7 @@
           },
           "MicroSerializationLibrary": {
             "target": "Package",
-            "version": "[1.1.2, )"
+            "version": "[1.1.2.2, )"
           },
           "System.Drawing.Common": {
             "target": "Package",
@@ -5134,7 +5134,7 @@
           },
           "MicroSerializationLibrary": {
             "target": "Package",
-            "version": "[1.1.2, )"
+            "version": "[1.1.2.2, )"
           },
           "System.Drawing.Common": {
             "target": "Package",
@@ -5180,7 +5180,7 @@
           },
           "MicroSerializationLibrary": {
             "target": "Package",
-            "version": "[1.1.2, )"
+            "version": "[1.1.2.2, )"
           },
           "System.Drawing.Common": {
             "target": "Package",
@@ -5217,7 +5217,7 @@
           },
           "MicroSerializationLibrary": {
             "target": "Package",
-            "version": "[1.1.2, )"
+            "version": "[1.1.2.2, )"
           },
           "System.Drawing.Common": {
             "target": "Package",
@@ -5254,7 +5254,7 @@
           },
           "MicroSerializationLibrary": {
             "target": "Package",
-            "version": "[1.1.2, )"
+            "version": "[1.1.2.2, )"
           },
           "System.Drawing.Common": {
             "target": "Package",
@@ -5300,7 +5300,7 @@
           },
           "MicroSerializationLibrary": {
             "target": "Package",
-            "version": "[1.1.2, )"
+            "version": "[1.1.2.2, )"
           },
           "System.Drawing.Common": {
             "target": "Package",
@@ -5346,7 +5346,7 @@
           },
           "MicroSerializationLibrary": {
             "target": "Package",
-            "version": "[1.1.2, )"
+            "version": "[1.1.2.2, )"
           },
           "System.Drawing.Common": {
             "target": "Package",
@@ -5392,7 +5392,7 @@
           },
           "MicroSerializationLibrary": {
             "target": "Package",
-            "version": "[1.1.2, )"
+            "version": "[1.1.2.2, )"
           },
           "System.Drawing.Common": {
             "target": "Package",
@@ -5438,7 +5438,7 @@
           },
           "MicroSerializationLibrary": {
             "target": "Package",
-            "version": "[1.1.2, )"
+            "version": "[1.1.2.2, )"
           },
           "System.Drawing.Common": {
             "target": "Package",
@@ -5484,7 +5484,7 @@
           },
           "MicroSerializationLibrary": {
             "target": "Package",
-            "version": "[1.1.2, )"
+            "version": "[1.1.2.2, )"
           },
           "System.Drawing.Common": {
             "target": "Package",
@@ -5530,7 +5530,7 @@
           },
           "MicroSerializationLibrary": {
             "target": "Package",
-            "version": "[1.1.2, )"
+            "version": "[1.1.2.2, )"
           },
           "System.Drawing.Common": {
             "target": "Package",
@@ -5567,7 +5567,7 @@
           },
           "MicroSerializationLibrary": {
             "target": "Package",
-            "version": "[1.1.2, )"
+            "version": "[1.1.2.2, )"
           },
           "System.Drawing.Common": {
             "target": "Package",
@@ -5604,7 +5604,7 @@
           },
           "MicroSerializationLibrary": {
             "target": "Package",
-            "version": "[1.1.2, )"
+            "version": "[1.1.2.2, )"
           },
           "System.Drawing.Common": {
             "target": "Package",
@@ -5650,7 +5650,7 @@
           },
           "MicroSerializationLibrary": {
             "target": "Package",
-            "version": "[1.1.2, )"
+            "version": "[1.1.2.2, )"
           },
           "System.Drawing.Common": {
             "target": "Package",
@@ -5696,7 +5696,7 @@
           },
           "MicroSerializationLibrary": {
             "target": "Package",
-            "version": "[1.1.2, )"
+            "version": "[1.1.2.2, )"
           },
           "System.Drawing.Common": {
             "target": "Package",
@@ -5742,7 +5742,7 @@
           },
           "MicroSerializationLibrary": {
             "target": "Package",
-            "version": "[1.1.2, )"
+            "version": "[1.1.2.2, )"
           },
           "System.Drawing.Common": {
             "target": "Package",
@@ -5788,7 +5788,7 @@
           },
           "MicroSerializationLibrary": {
             "target": "Package",
-            "version": "[1.1.2, )"
+            "version": "[1.1.2.2, )"
           },
           "System.Drawing.Common": {
             "target": "Package",
@@ -5834,7 +5834,7 @@
           },
           "MicroSerializationLibrary": {
             "target": "Package",
-            "version": "[1.1.2, )"
+            "version": "[1.1.2.2, )"
           },
           "System.Drawing.Common": {
             "target": "Package",
