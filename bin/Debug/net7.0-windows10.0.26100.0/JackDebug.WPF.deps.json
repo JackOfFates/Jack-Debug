@@ -6,10 +6,10 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "JackDebug.WPF/1.1.0.3": {
+      "JackDebug.WPF/1.1.0.5": {
         "dependencies": {
           "MahApps.Metro": "2.4.10",
-          "MicroSerializationLibrary": "1.1.2.2",
+          "MicroSerializationLibrary": "1.1.2.21",
           "System.Drawing.Common": "9.0.0",
           "runtimepack.Microsoft.Windows.SDK.NET.Ref": "10.0.26100.52"
         },
@@ -57,7 +57,7 @@
           }
         }
       },
-      "MicroSerializationLibrary/1.1.2.2": {
+      "MicroSerializationLibrary/1.1.2.21": {
         "runtime": {
           "lib/net7.0-windows10.0.26100/MicroSerializationLibrary.dll": {
             "assemblyVersion": "0.0.0.0",
@@ -85,7 +85,7 @@
     }
   },
   "libraries": {
-    "JackDebug.WPF/1.1.0.3": {
+    "JackDebug.WPF/1.1.0.5": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -109,12 +109,12 @@
       "path": "mahapps.metro/2.4.10",
       "hashPath": "mahapps.metro.2.4.10.nupkg.sha512"
     },
-    "MicroSerializationLibrary/1.1.2.2": {
+    "MicroSerializationLibrary/1.1.2.21": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-gboBUbcoNaTOcMeZQ5JIga5Mee6j35ICKLZeNnSswTBAiFOQ1dlYHVIRZuTkwdyaVUFC/NTE59XCI6Qet3EyHw==",
-      "path": "microserializationlibrary/1.1.2.2",
-      "hashPath": "microserializationlibrary.1.1.2.2.nupkg.sha512"
+      "sha512": "sha512-L0/kHnmlejpdMOjV7rVOlZY67zzFvr5AHNkdrifcjwn9E//rRKusokfZMQ+XC+BqjjOQhl2CPME2kCjYbaV0iA==",
+      "path": "microserializationlibrary/1.1.2.21",
+      "hashPath": "microserializationlibrary.1.1.2.21.nupkg.sha512"
     },
     "Microsoft.Xaml.Behaviors.Wpf/1.1.19": {
       "type": "package",
