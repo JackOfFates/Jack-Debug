@@ -17,11 +17,11 @@ Imports System.Reflection
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyCopyrightAttribute("Copyright © JackOfFates 2024"),  _
  Assembly: System.Reflection.AssemblyDescriptionAttribute("Debug your WPF application easily with JackDebug."),  _
- Assembly: System.Reflection.AssemblyFileVersionAttribute("1.1.0.5"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.1.0.5+8d2b4e0a4855390d1c4a04870ff810eff150e483"),  _
+ Assembly: System.Reflection.AssemblyFileVersionAttribute("1.1.1.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.1.1.0+2e9fe3dc33b6fd40575bcff97bc090175274683f"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("JackDebug.WPF"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("JackDebug.WPF"),  _
- Assembly: System.Reflection.AssemblyVersionAttribute("1.1.0.5"),  _
+ Assembly: System.Reflection.AssemblyVersionAttribute("1.1.1.0"),  _
  Assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/JackOfFates/Jack-Debug"),  _
  Assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0"),  _
  Assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")> 

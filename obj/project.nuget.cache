@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Sa85hw90jiQ=",
+  "dgSpecHash": "7TmKwBB5sJM=",
   "success": true,
   "projectFilePath": "C:\\Users\\Vin\\Documents\\GitHub\\Jack-Debug\\JackDebug.WPF.vbproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vin\\.nuget\\packages\\controlzex\\4.4.0\\controlzex.4.4.0.nupkg.sha512",
     "C:\\Users\\Vin\\.nuget\\packages\\mahapps.metro\\2.4.10\\mahapps.metro.2.4.10.nupkg.sha512",
-    "C:\\Users\\Vin\\.nuget\\packages\\microserializationlibrary\\1.1.2.21\\microserializationlibrary.1.1.2.21.nupkg.sha512",
+    "C:\\Users\\Vin\\.nuget\\packages\\microserializationlibrary\\1.1.2.22\\microserializationlibrary.1.1.2.22.nupkg.sha512",
     "C:\\Users\\Vin\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.0\\microsoft.win32.systemevents.9.0.0.nupkg.sha512",
     "C:\\Users\\Vin\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
     "C:\\Users\\Vin\\.nuget\\packages\\system.drawing.common\\9.0.0\\system.drawing.common.9.0.0.nupkg.sha512",
