@@ -6,26 +6,26 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "JackDebug.WPF/1.1.1.0": {
+      "JackDebug.WPF/1.1.2.0": {
         "dependencies": {
           "MahApps.Metro": "2.4.10",
           "MicroSerializationLibrary": "1.1.2.22",
           "System.Drawing.Common": "9.0.0",
-          "runtimepack.Microsoft.Windows.SDK.NET.Ref": "10.0.22621.52"
+          "runtimepack.Microsoft.Windows.SDK.NET.Ref": "10.0.22621.55"
         },
         "runtime": {
           "JackDebug.WPF.dll": {}
         }
       },
-      "runtimepack.Microsoft.Windows.SDK.NET.Ref/10.0.22621.52": {
+      "runtimepack.Microsoft.Windows.SDK.NET.Ref/10.0.22621.55": {
         "runtime": {
           "Microsoft.Windows.SDK.NET.dll": {
             "assemblyVersion": "10.0.22621.38",
-            "fileVersion": "10.0.22621.52"
+            "fileVersion": "10.0.22621.55"
           },
           "WinRT.Runtime.dll": {
             "assemblyVersion": "2.1.0.0",
-            "fileVersion": "2.1.6.47881"
+            "fileVersion": "2.2.0.48161"
           }
         }
       },
@@ -85,12 +85,12 @@
     }
   },
   "libraries": {
-    "JackDebug.WPF/1.1.1.0": {
+    "JackDebug.WPF/1.1.2.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "runtimepack.Microsoft.Windows.SDK.NET.Ref/10.0.22621.52": {
+    "runtimepack.Microsoft.Windows.SDK.NET.Ref/10.0.22621.55": {
       "type": "runtimepack",
       "serviceable": false,
       "sha512": ""

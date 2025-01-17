@@ -5,7 +5,7 @@
   },
   "projects": {
     "C:\\Users\\Vin\\Documents\\GitHub\\Jack-Debug\\JackDebug.WPF.vbproj": {
-      "version": "1.1.1",
+      "version": "1.1.2",
       "restore": {
         "projectUniqueName": "C:\\Users\\Vin\\Documents\\GitHub\\Jack-Debug\\JackDebug.WPF.vbproj",
         "projectName": "JackDebug.WPF",
@@ -239,7 +239,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
         },
         "net6.0-windows8.0": {
           "targetAlias": "net6.0-windows8.0",
@@ -276,7 +276,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
         },
         "net6.0-windows10.0.17763": {
           "targetAlias": "net6.0-windows10.0.17763.0",
@@ -308,7 +308,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.Windows.SDK.NET.Ref",
-              "version": "[10.0.17763.52, 10.0.17763.52]"
+              "version": "[10.0.17763.55, 10.0.17763.55]"
             }
           ],
           "frameworkReferences": {
@@ -322,7 +322,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
         },
         "net6.0-windows10.0.18362": {
           "targetAlias": "net6.0-windows10.0.18362.0",
@@ -354,7 +354,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.Windows.SDK.NET.Ref",
-              "version": "[10.0.18362.52, 10.0.18362.52]"
+              "version": "[10.0.18362.55, 10.0.18362.55]"
             }
           ],
           "frameworkReferences": {
@@ -368,7 +368,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
         },
         "net6.0-windows10.0.19041": {
           "targetAlias": "net6.0-windows10.0.19041.0",
@@ -400,7 +400,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.Windows.SDK.NET.Ref",
-              "version": "[10.0.19041.52, 10.0.19041.52]"
+              "version": "[10.0.19041.55, 10.0.19041.55]"
             }
           ],
           "frameworkReferences": {
@@ -414,7 +414,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
         },
         "net6.0-windows10.0.20348": {
           "targetAlias": "net6.0-windows10.0.20348.0",
@@ -446,7 +446,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.Windows.SDK.NET.Ref",
-              "version": "[10.0.20348.52, 10.0.20348.52]"
+              "version": "[10.0.20348.55, 10.0.20348.55]"
             }
           ],
           "frameworkReferences": {
@@ -460,7 +460,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
         },
         "net6.0-windows10.0.22621": {
           "targetAlias": "net6.0-windows10.0.22621.0",
@@ -492,7 +492,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.Windows.SDK.NET.Ref",
-              "version": "[10.0.22621.52, 10.0.22621.52]"
+              "version": "[10.0.22621.55, 10.0.22621.55]"
             }
           ],
           "frameworkReferences": {
@@ -506,7 +506,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
         },
         "net6.0-windows10.0.26100": {
           "targetAlias": "net6.0-windows10.0.26100.0",
@@ -538,7 +538,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.Windows.SDK.NET.Ref",
-              "version": "[10.0.26100.52, 10.0.26100.52]"
+              "version": "[10.0.26100.55, 10.0.26100.55]"
             }
           ],
           "frameworkReferences": {
@@ -552,7 +552,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
         },
         "net7.0-windows7.0": {
           "targetAlias": "net7.0-windows7.0",
@@ -589,7 +589,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
         },
         "net7.0-windows8.0": {
           "targetAlias": "net7.0-windows8.0",
@@ -626,7 +626,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
         },
         "net7.0-windows10.0.17763": {
           "targetAlias": "net7.0-windows10.0.17763.0",
@@ -658,7 +658,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.Windows.SDK.NET.Ref",
-              "version": "[10.0.17763.52, 10.0.17763.52]"
+              "version": "[10.0.17763.55, 10.0.17763.55]"
             }
           ],
           "frameworkReferences": {
@@ -672,7 +672,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
         },
         "net7.0-windows10.0.18362": {
           "targetAlias": "net7.0-windows10.0.18362.0",
@@ -704,7 +704,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.Windows.SDK.NET.Ref",
-              "version": "[10.0.18362.52, 10.0.18362.52]"
+              "version": "[10.0.18362.55, 10.0.18362.55]"
             }
           ],
           "frameworkReferences": {
@@ -718,7 +718,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
         },
         "net7.0-windows10.0.19041": {
           "targetAlias": "net7.0-windows10.0.19041.0",
@@ -750,7 +750,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.Windows.SDK.NET.Ref",
-              "version": "[10.0.19041.52, 10.0.19041.52]"
+              "version": "[10.0.19041.55, 10.0.19041.55]"
             }
           ],
           "frameworkReferences": {
@@ -764,7 +764,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
         },
         "net7.0-windows10.0.20348": {
           "targetAlias": "net7.0-windows10.0.20348.0",
@@ -796,7 +796,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.Windows.SDK.NET.Ref",
-              "version": "[10.0.20348.52, 10.0.20348.52]"
+              "version": "[10.0.20348.55, 10.0.20348.55]"
             }
           ],
           "frameworkReferences": {
@@ -810,7 +810,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
         },
         "net7.0-windows10.0.22621": {
           "targetAlias": "net7.0-windows10.0.22621.0",
@@ -842,7 +842,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.Windows.SDK.NET.Ref",
-              "version": "[10.0.22621.52, 10.0.22621.52]"
+              "version": "[10.0.22621.55, 10.0.22621.55]"
             }
           ],
           "frameworkReferences": {
@@ -856,7 +856,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
         },
         "net7.0-windows10.0.26100": {
           "targetAlias": "net7.0-windows10.0.26100.0",
@@ -888,7 +888,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.Windows.SDK.NET.Ref",
-              "version": "[10.0.26100.52, 10.0.26100.52]"
+              "version": "[10.0.26100.55, 10.0.26100.55]"
             }
           ],
           "frameworkReferences": {
@@ -902,7 +902,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
         },
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows7.0",
@@ -939,7 +939,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         },
         "net8.0-windows8.0": {
           "targetAlias": "net8.0-windows8.0",
@@ -976,7 +976,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         },
         "net8.0-windows10.0.17763": {
           "targetAlias": "net8.0-windows10.0.17763.0",
@@ -1008,7 +1008,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.Windows.SDK.NET.Ref",
-              "version": "[10.0.17763.54, 10.0.17763.54]"
+              "version": "[10.0.17763.57, 10.0.17763.57]"
             }
           ],
           "frameworkReferences": {
@@ -1022,7 +1022,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         },
         "net8.0-windows10.0.18362": {
           "targetAlias": "net8.0-windows10.0.18362.0",
@@ -1054,7 +1054,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.Windows.SDK.NET.Ref",
-              "version": "[10.0.18362.54, 10.0.18362.54]"
+              "version": "[10.0.18362.57, 10.0.18362.57]"
             }
           ],
           "frameworkReferences": {
@@ -1068,7 +1068,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         },
         "net8.0-windows10.0.19041": {
           "targetAlias": "net8.0-windows10.0.19041.0",
@@ -1100,7 +1100,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.Windows.SDK.NET.Ref",
-              "version": "[10.0.19041.54, 10.0.19041.54]"
+              "version": "[10.0.19041.57, 10.0.19041.57]"
             }
           ],
           "frameworkReferences": {
@@ -1114,7 +1114,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         },
         "net8.0-windows10.0.20348": {
           "targetAlias": "net8.0-windows10.0.20348.0",
@@ -1146,7 +1146,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.Windows.SDK.NET.Ref",
-              "version": "[10.0.20348.54, 10.0.20348.54]"
+              "version": "[10.0.20348.57, 10.0.20348.57]"
             }
           ],
           "frameworkReferences": {
@@ -1160,7 +1160,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         },
         "net8.0-windows10.0.22621": {
           "targetAlias": "net8.0-windows10.0.22621.0",
@@ -1192,7 +1192,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.Windows.SDK.NET.Ref",
-              "version": "[10.0.22621.54, 10.0.22621.54]"
+              "version": "[10.0.22621.57, 10.0.22621.57]"
             }
           ],
           "frameworkReferences": {
@@ -1206,7 +1206,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         },
         "net8.0-windows10.0.26100": {
           "targetAlias": "net8.0-windows10.0.26100.0",
@@ -1238,7 +1238,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.Windows.SDK.NET.Ref",
-              "version": "[10.0.26100.54, 10.0.26100.54]"
+              "version": "[10.0.26100.57, 10.0.26100.57]"
             }
           ],
           "frameworkReferences": {
@@ -1252,7 +1252,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         },
         "net9.0-windows7.0": {
           "targetAlias": "net9.0-windows7.0",
@@ -1289,7 +1289,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         },
         "net9.0-windows8.0": {
           "targetAlias": "net9.0-windows8.0",
@@ -1326,7 +1326,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         },
         "net9.0-windows10.0.17763": {
           "targetAlias": "net9.0-windows10.0.17763.0",
@@ -1358,7 +1358,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.Windows.SDK.NET.Ref",
-              "version": "[10.0.17763.54, 10.0.17763.54]"
+              "version": "[10.0.17763.57, 10.0.17763.57]"
             }
           ],
           "frameworkReferences": {
@@ -1372,7 +1372,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         },
         "net9.0-windows10.0.18362": {
           "targetAlias": "net9.0-windows10.0.18362.0",
@@ -1404,7 +1404,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.Windows.SDK.NET.Ref",
-              "version": "[10.0.18362.54, 10.0.18362.54]"
+              "version": "[10.0.18362.57, 10.0.18362.57]"
             }
           ],
           "frameworkReferences": {
@@ -1418,7 +1418,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         },
         "net9.0-windows10.0.19041": {
           "targetAlias": "net9.0-windows10.0.19041.0",
@@ -1450,7 +1450,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.Windows.SDK.NET.Ref",
-              "version": "[10.0.19041.54, 10.0.19041.54]"
+              "version": "[10.0.19041.57, 10.0.19041.57]"
             }
           ],
           "frameworkReferences": {
@@ -1464,7 +1464,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         },
         "net9.0-windows10.0.20348": {
           "targetAlias": "net9.0-windows10.0.20348.0",
@@ -1496,7 +1496,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.Windows.SDK.NET.Ref",
-              "version": "[10.0.20348.54, 10.0.20348.54]"
+              "version": "[10.0.20348.57, 10.0.20348.57]"
             }
           ],
           "frameworkReferences": {
@@ -1510,7 +1510,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         },
         "net9.0-windows10.0.22621": {
           "targetAlias": "net9.0-windows10.0.22621.0",
@@ -1542,7 +1542,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.Windows.SDK.NET.Ref",
-              "version": "[10.0.22621.54, 10.0.22621.54]"
+              "version": "[10.0.22621.57, 10.0.22621.57]"
             }
           ],
           "frameworkReferences": {
@@ -1556,7 +1556,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         },
         "net9.0-windows10.0.26100": {
           "targetAlias": "net9.0-windows10.0.26100.0",
@@ -1588,7 +1588,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.Windows.SDK.NET.Ref",
-              "version": "[10.0.26100.54, 10.0.26100.54]"
+              "version": "[10.0.26100.57, 10.0.26100.57]"
             }
           ],
           "frameworkReferences": {
@@ -1602,7 +1602,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
